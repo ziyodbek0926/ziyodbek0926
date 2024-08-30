@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Python+Developer👨‍💻;)](#)
 <br>👋 Hi, I’m <b>Ziyodbek  Abdusattorov</b>
 <br>🌱 I’m currently learning <b>Python Backend</b>
-<br>📫 How to reach me <a href="https://t.me/Ziyodbek0926"><b>Telegram</b></a> 
+<br>📫 How to reach me <a href="https://t.me/Ziyodbek0907"><b>Telegram</b></a> 
 <br><br>
 <p align="center">
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
@@ -19,7 +19,7 @@
 
 🪐 You can reach me via the following links:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: auto; width: fit-content">
+<div style="display: flex; flex-wrap: wrap; gap: 20 px; margin: auto; width: fit-content">
    <a href="https://t.me/ziyodbek_0907">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
    </a>
