@@ -57,7 +57,7 @@
      <a href="https://github.com/ziyodbek0926/issues">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziyodbek0926&hide=c%23,css,html%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/ziyodbek0926/issues" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ziyodbek0926&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
