@@ -20,11 +20,11 @@
 🪐 You can reach me via the following links:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20 px; margin: auto; width: fit-content">
-   <a href="https://t.me/ziyodbek_0907">
+   <a href="https://t.me/Ziyodbekdev">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
    </a>
    &nbsp;
-   <a href="https://www.instagram.com/ziyodbek_004/" target="_blank">
+   <a href="https://www.instagram.com/ziyodbek.life/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px" alt="Instagram Logo" />
    </a>
    &nbsp;
