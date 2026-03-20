@@ -20,10 +20,6 @@
 🪐 You can reach me via the following links:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20 px; margin: auto; width: fit-content">
-   <a href="https://t.me/Ziyodbekdev">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" width="30px" />
-   </a>
-   &nbsp;
    <a href="https://www.instagram.com/ziyodbek.life/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px" alt="Instagram Logo" />
    </a>
@@ -32,10 +28,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
    </a>
     &nbsp;
-   <a href="https://vscode.dev/">
-      <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="30px" />
-   </a>
-   &nbsp;
    <a href="https://www.codewars.com/users/Ziyodbek/">
    <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="30px"></a>
     &nbsp;
