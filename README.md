@@ -1,41 +1,58 @@
-<!-- - 👋 Hi, I’m Abdusattorov Ziyodbek
-- 👨‍💻I’m currently learning Python Backend
-- 📫 How to reach me https://t.me/AAZiyodbek -->
-# 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1200&height=150&lines=I'm+Python+Developer👨‍💻;)](#)
-<br>👋 Hi, I’m <b>Ziyodbek  Abdusattorov</b>
-<br>🌱 I’m currently learning <b>Python Backend</b>
-<br>📫 How to reach me <a href="https://t.me/AAZiyodbek"><b>Telegram</b></a> 
-<br><br>
+<h1 align="center">Salom, men Ziyodbekman! 👋</h1>
+
+<h3 align="center">Backend Developer & DevOps Engineer</h3>
+
 <p align="center">
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  Dasturlash infratuzilmasini qurish, boshqarish va murakkab backend tizimlarini ishlab chiqishga qiziqaman. Muammolarga optimal va ishonchli yechimlar topish - mening asosiy maqsadim.
+</p>
 
+---
 
-# 🐍 snike 
+### 👨‍💻 Men haqimda
+
+- 🎓 **Toshkent Axborot Texnologiyalari Universiteti (TATU)** Samarqand filiali bitiruvchisiman.
+- 💻 **School 21** dasturlash maktabining 1-qaldirg'och bitiruvchilaridan biriman (Dasturlash yo'nalishi).
+- 🛠️ Asosan **Backend** va **DevOps** texnologiyalari bilan ishlayman.
+- 🌱 Hozirda chuqurlashtirib o'rganayotgan sohalarim: **Microservices, CI/CD, Cloud Technologies**.
+- 📫 Men bilan bog'lanish uchun portfoliom: **[ziyodbek.carrd.co](https://ziyodbek.carrd.co/)**
+
+---
+
+### 🛠️ Texnologiyalar va Ko'nikmalar
+
+<p align="left">
+  <!-- Dasturlash tillari -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📬 Men bilan bog'lanish
+
+<p align="left">
+  <a href="https://ziyodbek.carrd.co/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=carrd&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdusattorov-ziyodbek-b114b6279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/AAZiyodbek">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/ziyodbek.life/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:abdusattorovziyodbek07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 🐍 GitHub
 
 <a href=#><img src="snike.svg"></a>
-
-## 🌐 Socials:
-
-🪐 You can reach me via the following links:
-
-<div style="display: flex; flex-wrap: wrap; gap: 20 px; margin: auto; width: fit-content">
-   <a href="https://www.instagram.com/ziyodbek.life/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px" alt="Instagram Logo" />
-   </a>
-   &nbsp;
-   <a href="https://www.linkedin.com/in/abdusattorov-ziyodbek-b114b6279/">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="30px" />
-   </a>
-    &nbsp;
-   <a href="https://www.codewars.com/users/Ziyodbek/">
-   <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="30px"></a>
-    &nbsp;
-</div>
-<br><br><br>
-
-![CodeWars](https://www.codewars.com/users/Ziyodbek/badges/large)
-
-
-
-<hr>
