@@ -34,7 +34,7 @@
 ### 📬 Men bilan bog'lanish
 
 <p align="left">
-  <a href="https://ziyodbek.carrd.co/">
+  <a href="https://ziyodbek.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=carrd&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/abdusattorov-ziyodbek-b114b6279/">
