@@ -11,10 +11,10 @@
 ### 👨‍💻 Men haqimda
 
 - 🎓 **Toshkent Axborot Texnologiyalari Universiteti (TATU)** Samarqand filiali bitiruvchisiman.
-- 💻 **School 21** dasturlash maktabining 1-qaldirg'och bitiruvchilaridan biriman (Dasturlash yo'nalishi).
+- 💻 **School 21** dasturlash maktabining 1-bitiruvchilaridan biriman (Dasturlash yo'nalishi).
 - 🛠️ Asosan **Backend** va **DevOps** texnologiyalari bilan ishlayman.
 - 🌱 Hozirda chuqurlashtirib o'rganayotgan sohalarim: **Microservices, CI/CD, Cloud Technologies**.
-- 📫 Men bilan bog'lanish uchun portfoliom: **[ziyodbek.carrd.co](https://ziyodbek.carrd.co/)**
+- 📫 Men bilan bog'lanish uchun portfoliom: **https://ziyodbek.vercel.app/**
 
 ---
 
